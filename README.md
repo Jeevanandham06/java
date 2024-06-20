@@ -1,2 +1,2 @@
 # java
-here you can solution for java problem solving
+here you can  find solution for java problem solving
